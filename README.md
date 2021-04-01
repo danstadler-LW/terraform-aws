@@ -7,3 +7,4 @@ TEST
 test
 test
 foo
+foo

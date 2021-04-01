@@ -8,3 +8,4 @@ test
 test
 foo
 foo
+foo
